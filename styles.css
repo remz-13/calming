@@ -8,7 +8,7 @@ h1 {
 }
 h1:hover {
     text-decoration: underline;
-    transition: 1s;
+    transform: transition 1s;
 }
 p {
     text-align: center;
